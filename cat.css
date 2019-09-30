@@ -1,0 +1,81 @@
+.head{
+
+}
+
+.headoval{
+     height:50px;
+     width:85px;
+     border-radius: 90px / 45px;
+     background:grey;
+     transform: translate(100px, 100px);
+}
+
+.whisker1{
+    height: 3px;
+    width: 20px;
+    background-color: black;
+    transform: translate(90px,73px);
+}
+
+.whisker2{
+    height: 3px;
+    width: 20px;
+    background-color: black;
+    transform: translate(90px,62px);
+}
+
+.whisker3{
+    height: 3px;
+    width: 20px;
+    background-color: black;
+    transform: translate(175px,65px);
+}
+
+.whisker4{
+    height: 3px;
+    width: 20px;
+    background-color: black;
+    transform: translate(175px,54px);
+}
+
+.ear1{
+     width:0;
+     height:0;
+     border-bottom:20px solid grey;
+     border-left:10px solid transparent;
+     border-right:10px solid transparent;
+     transform: translate(150px, -2px);
+}
+
+.ear2{
+     width:0;
+     height:0;
+     border-bottom:20px solid grey;
+     border-left:10px solid transparent;
+     border-right:10px solid transparent;
+     transform: translate(110px, -20px);
+}
+
+.lefteye{
+  width: 11px;
+  height: 11px;
+  border-radius: 11px;
+  background-color: black;
+  transform: translate(150px, 35px);
+}
+
+.righteye{
+  width: 11px;
+  height: 11px;
+  border-radius: 11px;
+  background-color: black;
+  transform: translate(123px, 46px);
+}
+
+.nose{
+  height:5px;
+  width:8px;
+  border-radius: 90px / 45px;
+  background:pink;
+  transform: translate(137px, 77px);
+}
