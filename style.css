@@ -1,0 +1,99 @@
+.head {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
+
+.eyeballs{
+  width: 60px;
+  display: flex;
+  justify-content: space-between;
+  transform: translate(20px, 40px);
+}
+
+.eye{
+  background-color: grey;
+  height: 15px;
+  width: 15px;
+  border-radius: 15px;
+}
+
+.mouth{
+  background-color: grey;
+  height: 20px;
+  width: 20px;
+  border-radius: 20px;
+  display: flex;
+  transform: translate(40px, -40px);
+}
+
+.bowl{
+       height:45px;
+       width:90px;
+       border-radius: 0 0 90px 90px;
+       background:grey;
+       transform: translate(40px, 5px);
+}
+
+.apple{
+  background-color: darkred;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  transform: translate(40px, 90px);
+}
+
+.orange{
+  background-color: orange;
+  width: 27px;
+  height: 27px;
+  border-radius: 27px;
+  transform: translate(70px, 60px);
+}
+
+.bowlbot{
+     height:10px;
+     width:40px;
+     border-radius: 90px 90px 0 0;
+     background:grey;
+     transform: translate(62px, 2px);
+}
+
+.apple2{
+  background-color: darkred;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  transform: translate(90px, -10px);
+}
+
+.peartop{
+  background-color: lightgreen;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  transform: translate(-10px,-5px);
+}
+
+.pearbot{
+  background-color: lightgreen;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.stem{
+  background-color: brown;
+  width: 5px;
+  height: 15px;
+  transform: rotate(150deg);
+  transform: translate(125px, 30px);
+}
+
+.pear{
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  transform: translate(87px, 25px);
+}
